@@ -1,0 +1,9 @@
+/* global variables */
+:root {
+  --header-height: 90px;
+  --sidebar-width: 260px;
+  --footer-height: 30px;
+  --footer-text-color: #000;
+  --footer-text-size: 13px;
+  --background-colour: white;
+}
